@@ -10,7 +10,7 @@ namespace Units{
            International System units, have a parameter lenghtScale to scale the Lenght.
 
            length      = lenghtScale  m
-           mass        = lenghScale^3 g  (because mass scale with volume)
+           mass        = lenghScale^3 kg (because mass scale with volume)
            time        = lenghtScale  s  (So energy scale with volume)
            charge      = lenghtScale  C  (So voltage is in Volts)
            Temperature = Kelvin
